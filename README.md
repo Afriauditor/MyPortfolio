@@ -8,11 +8,13 @@ My audit portfolio contains the contests I participated in and my engagements in
 
 ## About Afriauditor
 
-I am a Web3 security researcher focusing on smart contracts, DeFi, and protocol-level security.
+I am a Web3 security researcher focusing on smart contracts, DeFi, and protocol-level security, with about two years of experience, 60+ H/M found across multile public and private contest and multiple engagement with top audit firms.
 
 I participate in contests on platforms like:
 - [Code4rena](https://code4rena.com)
 - [Sherlock](https://audits.sherlock.xyz)
+- [immunifi](https://immunefi.com/audit-competition)
+
 
   
 
@@ -24,7 +26,20 @@ I participate in contests on platforms like:
 
 ---
 
+
+## Engagements
+
+
+| Company / Team | Protocol / Client | Findings / Role      | Report  |
+| -------------- | ----------------- | -------------------- | --------- |
+| Pashov Audit Group   | Bio  | Private | Private |
+| Pashov Audit Group        | RIP it       | 2C,2H,2M,21L(co-audit)              | [here](https://github.com/pashov/audits/blob/master/team/pdf/RipIt-security-review_2025-05-10.pdf)     |
+| Pashov Audit Group        | Hypurrfi Periphery       | Private              | Private   |
+| Pashov Audit Group        | BOB       |  2C, 2H, 2M, 5L           | [here](https://github.com/pashov/audits/blob/master/team/pdf/BOB-Staking-security-review_2025-10-18.pdf)    |
+| Pashov Audit Group        | Turnkey       | private              | private      | 
+
 ---
+
 
 ## Highlights
 
@@ -38,20 +53,9 @@ I participate in contests on platforms like:
 |Beraborrow             | Sherlock     | 1M              | 6th   | [here](https://audits.sherlock.xyz/contests/741/leaderboard)
 | numa                  | Sherlock     | 2M              | 9th    | [here](https://audits.sherlock.xyz/contests/554/leaderboard)
 | Folks Smart Contract Library| Immunifi | 1L | 5th | [here](https://immunefi.com/audit-competition/folks-sc-library/leaderboard/#top) 
+| Folks Finance: Wormhole NTT| Immunifi | 1L | 5th | [here](https://immunefi.com/audit-competition/audit-comp--folks-finance-wormhole-ntt-on-algorand/leaderboard/#top) 
+
 ---  
-
-## Engagements
-
-
-| Company / Team | Protocol / Client | Findings / Role      | Report  |
-| -------------- | ----------------- | -------------------- | --------- |
-| Pashov Audit Group   | Bio  | Private | Private |
-| Pashov Audit Group        | RIP it       | 2C,2H,2M,21L(co-audit)              | [here](https://github.com/pashov/audits/blob/master/team/pdf/RipIt-security-review_2025-05-10.pdf)     |
-| Pashov Audit Group        | Hypurrfi Periphery       | Private              | Private   |
-| Pashov Audit Group        | BOB       | Private              | Private     |
-| Pashov Audit Group        | Turnkey       | private              | private      |
-
-
 
 ## Audit Contests
 
@@ -64,7 +68,11 @@ I participate in contests on platforms like:
 | Cabal Staking token| Code4rena | 1M | 9th  [here](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token) |
 | FlatMoney v2 update          | Sherlock   | 1M |13th  [here](https://audits.sherlock.xyz/contests/620/leaderboard) |
 | Midas - Instant Minter/Redeemer | Sherlock |   1M|  8th [here](https://audits.sherlock.xyz/contests/495/leaderboard) |
-| Succinct          | Code4rena   | QA | 12th [Report](https://code4rena.com/audits/2025-09-succinct) |
+| Succinct          | Code4rena   | QA | 12th [here](https://code4rena.com/audits/2025-09-succinct) |
+| Plume Network          | Immunifi   | 2H 5M 1L | 26th [here](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/#top) |
+
+
+
 
 
 
