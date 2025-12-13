@@ -8,7 +8,7 @@ My audit portfolio contains the contests I participated in and my engagements in
 
 ## About Afriauditor
 
-I am a Web3 security researcher focusing on smart contracts, DeFi, and protocol-level security, with about two years of experience, 60+ H/M found across multile public and private contest and multiple engagement with top audit firms. I have audited in Solidity, Rust, Move and Algorand python.
+I am a Web3 security researcher focusing on smart contracts, DeFi, and protocol-level security, with about two years of experience, 80+ H/M found across multile public and private contest and multiple engagement with top audit firms. I have audited in Solidity, Rust, Move and Algorand python.
 
 I participate in contests on platforms like:
 - [Code4rena](https://code4rena.com)
@@ -70,6 +70,7 @@ I participate in contests on platforms like:
 | Midas - Instant Minter/Redeemer | Sherlock |   1M|  8th [here](https://audits.sherlock.xyz/contests/495/leaderboard) |
 | Succinct          | Code4rena   | QA | 12th [here](https://code4rena.com/audits/2025-09-succinct) |
 | Plume Network          | Immunifi   | 2H 5M 1L | 26th [here](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/#top) |
+| Rezerve Money   |  Sherlock  | 4H 4M | 38th [here](https://audits.sherlock.xyz/contests/1134/leaderboard)|
 
 
 
