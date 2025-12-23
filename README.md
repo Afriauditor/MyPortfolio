@@ -66,11 +66,11 @@ I participate in contests on platforms like:
  Other public and private contests 
 | Contest / Protocol    |Protocol Type | Language | Platform     | Findings        | Rank /leaderbord |
 | --------------------- | ------------ | -------- | -------------| --------------- | ---------------- |
-| Zivoe           | RWA lending protocol | Solidity  | Sherlock   | 3H 1M      | 46th  [here](https://audits.sherlock.xyz/contests/280/leaderboard) |
-| Loopfi          | LRT lending market  | Solidity  | Code4rena   | 1H 3M    | 20th  [here](https://code4rena.com/audits/2024-07-loopfi) |
 | FlatMoney v2 update          | Perpetuals protocol | Solidity  | Sherlock   | 1M |13th  [here](https://audits.sherlock.xyz/contests/620/leaderboard) |
+| Loopfi          | LRT lending market  | Solidity  | Code4rena   | 1H 3M    | 20th  [here](https://code4rena.com/audits/2024-07-loopfi) |
 | Plume Network          | RWA Layer 2 | Solidity  | Immunifi   | 2H 5M 1L | 26th [here](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/#top) |
 | Rezerve Money   | Treasury protocol | Solidity  |  Sherlock  | 4H 4M | 38th [here](https://audits.sherlock.xyz/contests/1134/leaderboard)|
+| Zivoe           | RWA lending protocol | Solidity  | Sherlock   | 3H 1M      | 46th  [here](https://audits.sherlock.xyz/contests/280/leaderboard) |
 | Kinetiq | Liquid staking protocol | Solidity | Code4rena | 1H | 72nd  [heere](https://code4rena.com/audits/2025-04-kinetiq)
 
 
