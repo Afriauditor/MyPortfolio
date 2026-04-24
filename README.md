@@ -8,7 +8,7 @@ My audit portfolio contains the contests I participated in and my engagements in
 
 ## About Afriauditor
 
-I am a Web3 security researcher focusing on smart contracts, DeFi, and protocol-level security, with about two years of experience, 80+ H/M found across multile public and private contest and multiple engagement with top audit firms. I have audited in Solidity, Rust, Move and Algorand python.
+I am a Web3 security researcher focusing on smart contracts, DeFi, and protocol-level security, with about two years of experience, 100+ H/M found across multile public and private contest and multiple engagement with top audit firms. I have audited in Solidity, Rust, Move and Algorand python.
 
 I participate in contests on platforms like:
 - [Code4rena](https://code4rena.com)
