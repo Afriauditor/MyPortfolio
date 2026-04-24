@@ -48,6 +48,7 @@ I participate in contests on platforms like:
 | --------------------- | ------------- | -------- | ------------ | ----------------| ---- | -----------------------|    
 | Midas                |Tokenization/ RWA protocol  | Solidity | Sherlock     | 1M         | Top 3 🏅  | [here](https://audits.sherlock.xyz/contests/332/leaderboard)
 | PoolTogether          | Yield lottery | Solidity | Code4rena   | 1H, 1M           | Top 5🏅 |  [here](https://code4rena.com/audits/2024-03-pooltogether)
+| Folks Finance: Staking Contracts | Lending protocol | Solidity | Immunifi | 2L | Top 5🏅 | [here](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top)
 | Deepr                 | Lending protocol | Solidity | Sherlock    | 2M               | Top 5🏅  |  [here](https://audits.sherlock.xyz/contests/433/leaderboard)
 | Folks Smart Contract Library| Lending protocol | Algorand Python | Immunifi | 1L | Top 5🏅 | [here](https://immunefi.com/audit-competition/folks-sc-library/leaderboard/#top) 
 | Folks Finance: Wormhole NTT| Lending protocol | Algorand Python | Immunifi | 1L | Top 5 🏅 | [here](https://immunefi.com/audit-competition/audit-comp--folks-finance-wormhole-ntt-on-algorand/leaderboard/#top) 
